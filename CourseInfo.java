@@ -5,5 +5,7 @@ public class CourseInfo {'
 		System.out.println("Semester: Spring 2026");
 		System.out.println("Credits: 4");
 		System.out.println("Classroom: COP 204");
+		System.out.println("Class Time: MW 1:10-2:40pm / TR 1:20-2:50pm");
+		System.out.println("Number of Students: 23");
 	}
 }
